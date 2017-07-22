@@ -1,0 +1,69 @@
+
+html { 
+  background: url(img/field.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	}
+h1 {
+	text-shadow: 2px 1px #C2571A;
+	font-weight: 900;
+	color: coral;
+	font-size: 50px;
+}
+h3 {
+	font-weight: bolder;
+}
+#copyright {
+  text-align: center;
+  font-weight: bolder;
+}
+.art-one{
+	background-color: rgba(0,0,255,.5);
+	font-family: 'Cabin', sans-serif;
+	font-size: 22px;
+	color: coral;
+	line-height: 100%;
+	padding: 50px 30px 50px 80px;
+	border-radius: 25px;
+}
+.art-two {
+	background-color: rgba(0,255,0,.5);
+	font-family: 'Lemonada', cursive;
+	font-size: 18px;
+	color: red;
+	line-height: 125%;
+	padding: 30px 20px 30px 50px;
+	border-radius: 50px;
+}
+.art-three {
+	background-color: rgba(200,0,0,.5);
+	font-family: 'Audiowide', cursive
+	font-size: 14px;
+	color: lightgreen;
+	line-height: 150%;
+	padding: 70px 40px 70px 40px;
+	border-radius: 75px;
+}
+.art-four {
+	background-color: rgba(244,201,108,.5);
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 16px;
+	color: blue;
+	line-height: 175%;
+	padding: 40px 40px 40px 40px;
+	border-radius: 100px;
+}
+.art-five {
+	background-color: rgba(81,80,84,.5);
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 20px;
+	color: yellow;
+	line-height: 200%;
+	padding: 75px 50px 75px 100px;
+	border-radius: 150px;
+}
