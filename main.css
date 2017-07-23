@@ -29,6 +29,10 @@ h3 {
 	color: coral;
 	line-height: 100%;
 	padding: 50px 30px 50px 80px;
+	border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
 	border-radius: 25px;
 }
 .art-two {
@@ -38,6 +42,8 @@ h3 {
 	color: red;
 	line-height: 125%;
 	padding: 30px 20px 30px 50px;
+	border-style: dashed;
+	border-color: red;
 	border-radius: 50px;
 }
 .art-three {
@@ -47,15 +53,20 @@ h3 {
 	color: lightgreen;
 	line-height: 150%;
 	padding: 70px 40px 70px 40px;
+	border-style: double;
+	border-color: lightgreen
+	border-width: 5px;
 	border-radius: 75px;
 }
 .art-four {
 	background-color: rgba(244,201,108,.5);
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 16px;
-	color: blue;
+	color: darkblue;
 	line-height: 175%;
 	padding: 40px 40px 40px 40px;
+	border-style: groove;
+	border-color: darkblue;
 	border-radius: 100px;
 }
 .art-five {
@@ -65,5 +76,6 @@ h3 {
 	color: yellow;
 	line-height: 200%;
 	padding: 75px 50px 75px 100px;
+	border-style: ridge;
 	border-radius: 150px;
 }
